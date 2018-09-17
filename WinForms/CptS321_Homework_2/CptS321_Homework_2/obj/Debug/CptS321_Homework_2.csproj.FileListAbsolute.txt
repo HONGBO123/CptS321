@@ -1,0 +1,10 @@
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\bin\Debug\CptS321_Homework_2.exe.config
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\bin\Debug\CptS321_Homework_2.exe
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\bin\Debug\CptS321_Homework_2.pdb
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.csprojAssemblyReference.cache
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.Form1.resources
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.Properties.Resources.resources
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.csproj.GenerateResource.cache
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.csproj.CoreCompileInputs.cache
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.exe
+C:\Users\puffy\cs321-zsnoen\WinForms\CptS321_Homework_2\CptS321_Homework_2\obj\Debug\CptS321_Homework_2.pdb
